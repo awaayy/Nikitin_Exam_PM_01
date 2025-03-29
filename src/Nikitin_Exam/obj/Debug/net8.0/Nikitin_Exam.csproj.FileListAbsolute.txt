@@ -1,0 +1,15 @@
+C:\Nikitin_PM_01\src\Nikitin_Exam\obj\Debug\net8.0\Nikitin_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nikitin_PM_01\src\Nikitin_Exam\obj\Debug\net8.0\Nikitin_Exam.AssemblyInfoInputs.cache
+C:\Nikitin_PM_01\src\Nikitin_Exam\obj\Debug\net8.0\Nikitin_Exam.AssemblyInfo.cs
+C:\Nikitin_PM_01\src\Nikitin_Exam\obj\Debug\net8.0\Nikitin_Exam.csproj.CoreCompileInputs.cache
+C:\Nikitin_PM_01\src\Nikitin_Exam\obj\Debug\net8.0\Nikitin_Exam.sourcelink.json
+C:\Nikitin_PM_01\src\Nikitin_Exam\bin\Debug\net8.0\Nikitin_Exam.exe
+C:\Nikitin_PM_01\src\Nikitin_Exam\bin\Debug\net8.0\Nikitin_Exam.deps.json
+C:\Nikitin_PM_01\src\Nikitin_Exam\bin\Debug\net8.0\Nikitin_Exam.runtimeconfig.json
+C:\Nikitin_PM_01\src\Nikitin_Exam\bin\Debug\net8.0\Nikitin_Exam.dll
+C:\Nikitin_PM_01\src\Nikitin_Exam\bin\Debug\net8.0\Nikitin_Exam.pdb
+C:\Nikitin_PM_01\src\Nikitin_Exam\obj\Debug\net8.0\Nikitin_Exam.dll
+C:\Nikitin_PM_01\src\Nikitin_Exam\obj\Debug\net8.0\refint\Nikitin_Exam.dll
+C:\Nikitin_PM_01\src\Nikitin_Exam\obj\Debug\net8.0\Nikitin_Exam.pdb
+C:\Nikitin_PM_01\src\Nikitin_Exam\obj\Debug\net8.0\Nikitin_Exam.genruntimeconfig.cache
+C:\Nikitin_PM_01\src\Nikitin_Exam\obj\Debug\net8.0\ref\Nikitin_Exam.dll
