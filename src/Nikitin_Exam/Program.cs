@@ -16,16 +16,18 @@ namespace Nikitin_Exam
 
             for (int i = 0; i < n; i++)
             {
-                double temperature = GetValidInput("Температура (в град. цельсия)", -89.2, 56.7); //Допустимый ввод чисел ограничен рекордным минимумом и максимумом
+                double temperature = GetValidInput("Температуру (в град. цельсия)", -89.2, 56.7); //Допустимый ввод чисел ограничен рекордным минимумом и максимумом
                 double humidity = GetValidInput("Влажность (в процентах)", 0, 100);
                 double pressure = GetValidInput("Давление (в мм. рт. ст.)", 650, 800); //Допустимый ввод чисел ограничен рекордным минимумом и максимумом
 
                 Indications indication = new Indications(temperature, humidity, pressure);
                 weatherControl.AddIndication(indication);
+                Console.WriteLine();
             }
 
             weatherControl.SortIndications();
             weatherControl.SaveToFile("pogoda.txt");
+            weatherControl.PrintIndications();
         }
 
         static int GetValidReadingCount()
@@ -35,6 +37,7 @@ namespace Nikitin_Exam
             {
                 Console.Write("Введите количество показаний: ");
                 string input = Console.ReadLine();
+                Console.WriteLine();
 
                 if (string.IsNullOrWhiteSpace(input))
                 {

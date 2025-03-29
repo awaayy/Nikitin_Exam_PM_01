@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Nikitin_PM_01\\src\\Nikitin_Exam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|c:\\nikitin_pm_01\\src\\nikitin_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|c:\\nikitin_pm_01\\src\\nikitin_exam\\model\\weathercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|solutionrelative:model\\weathercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|c:\\nikitin_pm_01\\src\\nikitin_exam\\model\\indications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|solutionrelative:model\\indications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|c:\\nikitin_pm_01\\src\\nikitin_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 106,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +30,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "WeatherControl.cs",
               "DocumentMoniker": "C:\\Nikitin_PM_01\\src\\Nikitin_Exam\\Model\\WeatherControl.cs",
               "RelativeDocumentMoniker": "Model\\WeatherControl.cs",
-              "ToolTip": "C:\\Nikitin_PM_01\\src\\Nikitin_Exam\\Model\\WeatherControl.cs",
-              "RelativeToolTip": "Model\\WeatherControl.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAiwD8AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Nikitin_PM_01\\src\\Nikitin_Exam\\Model\\WeatherControl.cs*",
+              "RelativeToolTip": "Model\\WeatherControl.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T08:32:26.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Indications.cs",
               "DocumentMoniker": "C:\\Nikitin_PM_01\\src\\Nikitin_Exam\\Model\\Indications.cs",
               "RelativeDocumentMoniker": "Model\\Indications.cs",
@@ -56,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Nikitin_PM_01\\src\\Nikitin_Exam\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Nikitin_PM_01\\src\\Nikitin_Exam\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowEsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T08:32:12.14Z",
               "EditorCaption": ""
