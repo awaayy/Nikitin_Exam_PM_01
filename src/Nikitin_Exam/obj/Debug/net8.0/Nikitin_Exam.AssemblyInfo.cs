@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nikitin_Exam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fbfc0116945e1b526318c792d7b1ba9cb3eb80c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+daaacdc2507b82fc5b0e663fc33b6035563da8d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nikitin_Exam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nikitin_Exam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
