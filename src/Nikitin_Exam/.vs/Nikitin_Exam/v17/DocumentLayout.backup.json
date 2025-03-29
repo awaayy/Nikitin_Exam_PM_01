@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Nikitin_PM_01\\src\\Nikitin_Exam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|c:\\nikitin_pm_01\\src\\nikitin_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|c:\\nikitin_pm_01\\src\\nikitin_exam\\model\\weathercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|solutionrelative:model\\weathercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|c:\\nikitin_pm_01\\src\\nikitin_exam\\model\\indications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|solutionrelative:model\\indications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|c:\\nikitin_pm_01\\src\\nikitin_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4987619D-563B-40D6-8530-E6413E1437D0}|Nikitin_Exam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 106,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +30,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WeatherControl.cs",
               "DocumentMoniker": "C:\\Nikitin_PM_01\\src\\Nikitin_Exam\\Model\\WeatherControl.cs",
               "RelativeDocumentMoniker": "Model\\WeatherControl.cs",
-              "ToolTip": "C:\\Nikitin_PM_01\\src\\Nikitin_Exam\\Model\\WeatherControl.cs*",
-              "RelativeToolTip": "Model\\WeatherControl.cs*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAqwDkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Nikitin_PM_01\\src\\Nikitin_Exam\\Model\\WeatherControl.cs",
+              "RelativeToolTip": "Model\\WeatherControl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T08:32:26.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T08:32:26.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Indications.cs",
               "DocumentMoniker": "C:\\Nikitin_PM_01\\src\\Nikitin_Exam\\Model\\Indications.cs",
               "RelativeDocumentMoniker": "Model\\Indications.cs",
@@ -51,18 +50,17 @@
               "RelativeToolTip": "Model\\Indications.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T08:32:20.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T08:32:20.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Nikitin_PM_01\\src\\Nikitin_Exam\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Nikitin_PM_01\\src\\Nikitin_Exam\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T08:32:12.14Z",
               "EditorCaption": ""
