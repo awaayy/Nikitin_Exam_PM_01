@@ -55,8 +55,21 @@ namespace Nikitin_Exam.Model
                     writer.WriteLine($"{indication.Temperature,10} {indication.Humidity,8} {indication.Pressure,8}");
                 }
             }
-
             Console.WriteLine($"Данные успешно сохранены в файл '{newFilename}' в подкаталоге Debug директории bin данного проекта.");
+            Console.WriteLine();
+        }
+
+        public void PrintIndications()
+        {
+            Console.WriteLine("Показатели погоды, введенные в файл".PadRight(30));
+            Console.WriteLine("=".PadRight(30, '='));
+            Console.WriteLine("Температура/Влажность/Давление".PadRight(30));
+            Console.WriteLine("-".PadRight(30, '-'));
+
+            foreach (var indication in indicationsList)
+            {
+                Console.WriteLine($"{indication.Temperature,10} {indication.Humidity,8} {indication.Pressure,8}");
+            }
         }
     }
 }
